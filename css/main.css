@@ -82,3 +82,21 @@ opacity: 0.6;
 padding-top: 40px;
 }
 
+
+@media only screen and (max-width:425px){
+.herro{
+    text-align: center;
+    justify-content: space-between;
+}
+
+.form__button{
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+
+
+.form__select{
+ width: 100px;       
+}
+}
